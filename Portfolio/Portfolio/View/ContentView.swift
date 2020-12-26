@@ -22,7 +22,7 @@ struct ContentView: View {
                         .frame(width: 120, height: 120)
                         .cornerRadius(60)
                     VStack(alignment: .leading) {
-                        Text("Denys Andriievskyi")
+                        Text("Denys Andriievskyi") 
                             .font(.custom("Vidaloka-Regular", size: 28))
                             .foregroundColor(.white)
                         Text("iOS Developer")
